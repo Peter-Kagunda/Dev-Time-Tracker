@@ -58,9 +58,9 @@ Hello! I am a passionate full-stack developer specializing in custom WordPress p
 ### Let's Connect & Build Together!
 Have a custom project in mind, need a bespoke WordPress plugin, or want to collaborate? Get in touch!
 
-* **GitHub:** [Your GitHub Profile](https://github.com/peter-kagunda)
+* **GitHub:** [GitHub Profile](https://github.com/peter-kagunda)
 * **Email:** hello@peterkagunda.com
-* **Website:** [Your Portfolio Website](https://peterkagunda.com)
+* **Website:** [Portfolio Website](https://peterkagunda.com)
 
 ---
 
